@@ -402,8 +402,8 @@ otel go build .
 OTEL_EXPORTER_OTLP_ENDPOINT="http://127.0.0.1:4318" OTEL_EXPORTER_OTLP_INSECURE=true OTEL_SERVICE_NAME=${替换为你的真实的应用名} ./${替换为你的二进制程序名}
 ```
 5. 前往prometheus，查看nacos相关的指标数据
-![image1]("../../../../../../../../../assets/otel1.png)
-![image1]("../../../../../../../../../assets/otel2.png)
+![image1](https://img.alicdn.com/imgextra/i1/O1CN01o8hHXr1v1LmPA0tC8_!!6000000006112-0-tps-3022-984.jpg)
+![image2](https://img.alicdn.com/imgextra/i4/O1CN01gUd3CR1iBLPvMeFAi_!!6000000004374-0-tps-3024-860.jpg)
 
 
 ## 联系我们
